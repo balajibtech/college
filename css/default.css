@@ -1,0 +1,80 @@
+.labelText
+{
+	color:Blue;
+	font-size:14pt;
+	font-family:icon;
+}
+
+.tableStyle
+{
+	text-align:center;
+}
+
+.heading
+{
+	color:Maroon;
+	font-family:serif;
+	font-size:20pt;
+	text-decoration:underline;
+	text-align:center;
+	width:100%;
+}
+
+.content
+{
+	min-height:475px;
+	border:solid 3px #000099;	
+	float:left;
+	width:80%;
+	
+}
+.menu
+{	float:left;
+	width:18%;
+}
+
+.mandatoryStar
+{
+	color:#ff0000;
+	font-size:14pt;
+	font-family:TimesNewRoman;
+}
+
+.footer
+{
+	width:100%;
+	display:block;
+	float:bottom;
+	bottom:0%;
+	text-align:center;
+	
+}
+
+.buttonSize
+{
+	width:150px;
+	color: Maroon;
+}
+
+.errorMessage
+{
+	text-align:center;
+	color:red;
+}
+
+.bodyStyles
+{
+	background-attachment: scroll;
+	background-clip: border-box;
+	background-color: transparent;
+	background-image: url("../images/bg.jpg");
+	background-origin: padding-box;
+	background-size: cover;
+	background-position: center center;
+}
+
+.loginWindow
+{
+margin: 22px 260px 22px 247px;
+border:5px outset #000099;
+}
